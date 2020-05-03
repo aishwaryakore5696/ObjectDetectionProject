@@ -8,13 +8,13 @@ Input images-https://www.dropbox.com/sh/qvf4ndku92ap725/AAAK53j-IxCawrtBPETCkT1-
 
 My approch-
 1)Train the YOLO for object detection with CV2 using the images given above- 
-	training and testing codes/Train_YoloV3_generate_weights.ipynb 
+	Train_YoloV3_generate_weights.ipynb 
 2)Download the weights-
-	training and testing codes/yolov3_training_last .weights
+	yolov3_training_last .weights
 3)Used the above weights to detect follow object in the image- 
-	training and testing codes/yolo_object_detection_testing.py & 
-	training and testing codes/yolov3_testing.cfg
+	yolo_object_detection_testing.py & 
+	yolov3_testing.cfg
 4)The result images with bounding boxes around the following button are stored in results folder
-5)The video is also attached showing the working of the results.- results/videoresult
+5)The video is also attached showing the working of the results.- videoresult
 
 Thank you.
